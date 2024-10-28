@@ -29,4 +29,10 @@ https://colab.research.google.com/drive/1dz2FY34XzEkTteh8e48BZKIDGci9oimX
 ![image](https://github.com/user-attachments/assets/70e188eb-5f3e-430b-b775-ad578a5c6173)
 ![image](https://github.com/user-attachments/assets/c6d5e406-7d88-4016-a467-a77f0e14a08a)
 
+# 4A-GALZOTE-EXER3
+
+![image](https://github.com/user-attachments/assets/1f97072a-1689-45b3-8e19-5921d3bb338b)
+![image](https://github.com/user-attachments/assets/6ff870f3-1bce-4897-bd14-7a65c4d27882)
+
+
 
