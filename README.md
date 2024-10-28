@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1dz2FY34XzEkTteh8e48BZKIDGci9oimX
 # CS4A-GALZOTE-MP2
 
 ![image](https://github.com/user-attachments/assets/ad7a7ce0-1db4-40a6-9ece-ecfc14476537)
+
+
+# 4A-GALZOTE-EXER2
