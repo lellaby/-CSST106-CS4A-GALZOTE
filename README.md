@@ -21,4 +21,4 @@ https://colab.research.google.com/drive/1dz2FY34XzEkTteh8e48BZKIDGci9oimX
 
 # 4A-GALZOTE-EXER2
 
-![image](https://github.com/user-attachments/assets/5eba14aa-dffc-46ff-8fe0-b8186627ea2d)
+![image](https://github.com/user-attachments/assets/ff44345d-8537-4e33-b381-c94405229190)
