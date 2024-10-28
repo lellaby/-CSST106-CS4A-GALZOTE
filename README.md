@@ -34,5 +34,13 @@ https://colab.research.google.com/drive/1dz2FY34XzEkTteh8e48BZKIDGci9oimX
 ![image](https://github.com/user-attachments/assets/1f97072a-1689-45b3-8e19-5921d3bb338b)
 ![image](https://github.com/user-attachments/assets/6ff870f3-1bce-4897-bd14-7a65c4d27882)
 
+# 4A-GALZOTE-EXER4
+
+![image](https://github.com/user-attachments/assets/f6862ba0-8014-4b6d-8fd4-554052b1f2b2)
+![image](https://github.com/user-attachments/assets/df85a3a7-a9e9-4344-8bf8-546858c4c7fe)
+![image](https://github.com/user-attachments/assets/811bc8d9-909f-4d3a-8909-611210be6dab)
+![image](https://github.com/user-attachments/assets/f1039524-967c-4759-aa23-6fe43da6ef54)
+![image](https://github.com/user-attachments/assets/6e2144d8-6b58-4086-afdb-7c47d150548a)
+
 
 
